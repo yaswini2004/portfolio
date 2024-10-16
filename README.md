@@ -61,7 +61,7 @@ Ensure you have the following installed:
 Clone the repository using Git:
 
 ``` bash
-  git clone https://github.com/TuShArBhArDwA/your-portfolio-repo.git
+  git clone https://github.com/yaswini2004/portfolio.git
   cd your-portfolio-repo
 ```
 
@@ -83,9 +83,7 @@ Open your browser and go to http://localhost:3000 to view the project.
 Feel free to fork this repository and submit pull requests if you have suggestions or improvements. For bug reports or feature requests, please open an issue.
 
 ### Links
-- **Old Portfolio:** [PortFolio](https://tusharbhardwaj.vercel.app/)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Connect 1:1** [Topmate](https://topmate.io/tusharbhardwaj)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yaswini-naidu-07105b24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
