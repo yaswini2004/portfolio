@@ -14,9 +14,9 @@ const Approach = () => {
       <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="We'll collaborate to define your project's objectives, target data sources, 
+and key metrics. We'll discuss things like data architecture, data pipelines, 
+and analytics requirements."
         >
             <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,11 +24,11 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Modeling & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="Once the strategy is set, I begin developing models and analyzing data. 
+From initial data exploration to building machine learning models, I keep 
+you informed at every stage of the process."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -43,11 +43,11 @@ const Approach = () => {
           />
           </Card>
           <Card
-          title="Development & Launch"
+          title="Model Deployment & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="This is where the magic happens! Based on the approved models and analysis, 
+I'll deploy the machine learning models or data solutions, ensuring everything 
+runs smoothly and is ready for real-world use."
         >
           <CanvasRevealEffect
             animationSpeed={3}
