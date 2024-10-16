@@ -205,16 +205,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link: "https://github.com/TuShArBhArDwA",
-    },
-    {
-      id: 2,
-      img: "/twit.svg",
-      link: "https://twitter.com/TusharBhard2004",
+      link: "https://github.com/yaswini2004",
     },
     {
       id: 3,
       img: "/link.svg",
-      link: "https://www.linkedin.com/in/bhardwajtushar2004/",
+      link: "https://www.linkedin.com/in/yaswini-naidu-07105b24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
   ];
